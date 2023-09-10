@@ -1,2 +1,2 @@
 Ola
-Conectando o git ao github.
+Conectando o git ao github..
